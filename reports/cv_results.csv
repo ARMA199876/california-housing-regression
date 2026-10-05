@@ -1,0 +1,5 @@
+Model,CV_RMSE,Best_Params
+Lasso,0.7204994018389698,{'model__alpha': 0.001}
+ElasticNet,0.7205018558169975,"{'model__alpha': 0.001, 'model__l1_ratio': 0.8}"
+Ridge,0.7205090731464323,{'model__alpha': 1}
+Linear,0.7205095145054944,{}
